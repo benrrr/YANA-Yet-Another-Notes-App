@@ -2,6 +2,20 @@
 
 Simple note taking app allowing users to add multiple components to notes including text, image and location, as well as categorising and archiving notes. 
 
+## Design Documents
+
+### Class Diagram
+![Class](https://i.imgur.com/LYCFoLB.png "Class")
+
+### Architecture
+![Architecture](https://i.imgur.com/ST0kpdd.png "Architecture")
+
+### ERD
+![ERD](https://i.imgur.com/sPBX6zC.png "ERD")
+
+### Use Case
+![Use Case](https://i.imgur.com/cQjMLHq.png "Use Case")
+
 ## Home
 ![Home](https://i.imgur.com/Zcm7Prz.jpg "Home")
 
