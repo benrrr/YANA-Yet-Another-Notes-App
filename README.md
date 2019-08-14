@@ -7,9 +7,6 @@ Simple note taking app allowing users to add multiple components to notes includ
 ### Class Diagram
 ![Class](https://i.imgur.com/LYCFoLB.png "Class")
 
-### Architecture
-![Architecture](https://i.imgur.com/ST0kpdd.png "Architecture")
-
 ### ERD
 ![ERD](https://i.imgur.com/sPBX6zC.png "ERD")
 
