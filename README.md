@@ -1,5 +1,3 @@
-# YANA - Yet Another Notes App (Android)
-
 Simple note taking app allowing users to add multiple components to notes including text, image and location, as well as categorising and archiving notes. 
 
 ## Design Documents
